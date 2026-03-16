@@ -8,5 +8,5 @@ Route::get('/', function () {
 
 
 Route::get('/hello', function () {
-    return 'Hello Machi Laravel Working';
+    return 'Hello Machi Laravel Workings';
 });
